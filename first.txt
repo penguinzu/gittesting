@@ -1,2 +1,6 @@
 this is first line of first file 
-this is second line of second file 
+this is second line of second file
+
+
+
+now this file will enter second commit and idk which line it is 
